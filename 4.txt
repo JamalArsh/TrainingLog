@@ -1,0 +1,5 @@
+20.03.2023 - testing using it(), expect()
+21.03.2023 - testbed and spyOn()
+22.03.2023 - login, register validation
+23.03.2023 - @Input, @Output directives
+24.03.2023 - Modern house web development

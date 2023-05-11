@@ -1,0 +1,5 @@
+17.04.2023 - RxJS introduction
+18.04.2023 - RxJs in Angular
+19.04.2023 - Data optimization linkFX init transaction page
+20.04.2023 - * personal leave
+21.04.2023 - * personal leave

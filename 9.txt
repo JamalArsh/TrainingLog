@@ -1,0 +1,5 @@
+24.04.2023 - data optimization user management page
+25.04.2023 - sass recap
+26.04.2023 - Angular template driven forms
+27.04.2023 - angular reactive forms
+28.04.2023 - forms validation in angular

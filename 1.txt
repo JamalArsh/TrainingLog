@@ -1,0 +1,3 @@
+01-March-2023: Learned flex, Z-index, Display, units(px, rem) in CSS
+02-March-2023: Learned Postioning, media queries in CSS
+03-March-2023: MVVM, Declarative binding

@@ -1,0 +1,5 @@
+27.03.2023 - Responsive website design
+28.03.2023 - jasmine introduction
+29.03.2023 - testing for asynchronous function
+30.03.2023 - firebase api connection
+31.03.2023 - firebase api connection

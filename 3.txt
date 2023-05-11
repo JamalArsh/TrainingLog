@@ -1,0 +1,5 @@
+13.03.2023 - Angular data binding 
+14.03.2023 - Material angular
+15.03.2023 - Jest testing
+16.03.2023 - angular login form
+17.03.2023 - angular testing intro
