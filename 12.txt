@@ -1,5 +1,5 @@
-15.05.2023 - Control panel ui data optimization
-16.05.2023 - 
-17.05.2023 - 
+15.05.2023 - Control panel ui data optimization (html)
+16.05.2023 - Control panel ui data optimization (ts file)
+17.05.2023 - Control panel ui data optimization (modal optimization and found a bug)
 18.05.2023 - 
 19.05.2023 - 
