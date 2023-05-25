@@ -1,0 +1,5 @@
+22.05.2023 - bankoyo control panel design changes-subscribe page
+23.05.2023 - bankoyo control panel design changes-subscribe page
+24.05.2023 - bankoyo control panel design changes-manage user page - mobile view design
+25.05.2023 - bankoyo control panel design changes-manage user page - pagination
+26.05.2023 - 
