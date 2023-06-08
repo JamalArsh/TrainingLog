@@ -1,5 +1,5 @@
-05.06.2023 - angular optimization - Bankoyo control panel ui - removed unnecessary variables and import statements
-06.06.2023 - angular optimization - Bankoyo control panel ui - rxjs upgraded to new version
-07.06.2023 -
-08.06.2023 -
-09.06.2023 -
+05.06.2023 - angular optimization - Bankoyo control panel ui - subscribe page - removed unnecessary variables and import statements
+06.06.2023 - angular optimization - Bankoyo control panel ui - subscribe page - rxjs upgraded to new version
+07.06.2023 - angular optimization - Bankoyo control panel ui - manage user page - rxjs upgraded to new version
+08.06.2023 - angular optimization - LinkFX admin panel ui - stocks - rxjs upgraded to new version
+09.06.2023 - angular optimization - LinkFX admin panel ui - stocks - rxjs upgraded to new version
