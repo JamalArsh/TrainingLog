@@ -1,5 +1,5 @@
-24.07.2023 -
-25.07.2023 -
-26.07.2023 -
-27.07.2023 -
-28.07.2023 -
+24.07.2023 - SolonX Services main screen content design
+25.07.2023 - SolonX Services filter screen design
+26.07.2023 - SolonX Services filter screen design
+27.07.2023 - SolonX Services add-new-service screen design
+28.07.2023 - SolonX Services view-service screen design
