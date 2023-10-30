@@ -2,4 +2,4 @@
 04.07.2023 - unit test - bankoyo compliance - guard
 05.07.2023 - unit test - bankoyo compliance - login
 06.07.2023 - unit test - bankoyo compliance - reset
-07.07.2023 - unit test - bankoyo compliance - fotgot
+07.07.2023 - unit test - bankoyo compliance - forgot
